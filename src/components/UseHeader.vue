@@ -1,6 +1,6 @@
 <script setup></script>
 <template>
-  <div class="fixed top-0 left-0 right-0">
+  <div class="fixed top-0 left-0 right-0 z-[10000]">
     <header
       class="flex justify-between items-center lg:px-[128px] sm:px-[64px] px-[32px] bg-[#283652] py-[7px]"
     >
