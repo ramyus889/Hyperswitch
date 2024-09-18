@@ -9,7 +9,7 @@
           <img src="/hyperswitch.svg" alt="" class="h-12 max-w-[210px]" />
         </div>
       </div>
-      <div class="">
+      <div class="sm:block hidden">
         <button class="text-white bg-[#016ffc] px-[16px] py-[4px] rounded-full">Contact Us</button>
       </div>
     </header>

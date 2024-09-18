@@ -6,15 +6,19 @@
         <div class="flex place-content-center">
           <img src="/UseBadge.svg" alt="" />
         </div>
-        <div class="text-[60px] text-white font-bold leading-[60px] mt-[16px]">
+        <div
+          class="lg:text-[60px] sm:text-[40px] text-[25px] text-white font-bold leading-[60px] mt-[16px]"
+        >
           Global Payments Switch
         </div>
-        <div class="text-[60px] text-[#338cff] font-bold">Fast.Reliable.Affordable.</div>
+        <div class="lg:text-[60px] sm:text-[40px] text-[25px] text-[#338cff] font-bold">
+          Fast.Reliable.Affordable.
+        </div>
         <div class="text-[20px] text-white">
           Full stack payment infrastructure solution to embrace diversity, reduce payment friction
           and manage compliance
         </div>
-        <div class="flex gap-[36px] place-content-center mt-[44px]">
+        <div class="flex sm:flex-row flex-col gap-[36px] place-content-center mt-[44px]">
           <button
             class="bg-[#338cff] text-white font-bold text-[18px] px-[24px] py-[8px] rounded-full"
           >
