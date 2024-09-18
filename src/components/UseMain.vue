@@ -1,7 +1,7 @@
 <script setup></script>
 <template>
   <div class="bg-[#283652] w-full pb-1 flex place-content-center">
-    <div class="mt-[176px] max-w-[1440px] flex place-content-center">
+    <div class="mt-[176px] max-w-[1440px]">
       <div class="">
         <div class="text-center px-5">
           <div class="flex place-content-center">
