@@ -8,7 +8,7 @@
             <img src="/UseBadge.svg" alt="" />
           </div>
           <div
-            class="lg:text-[60px] sm:text-[40px] text-[25px] text-white font-bold leading-[60px] mt-[16px]"
+            class="lg:text-[60px] sm:text-[40px] text-[25px] text-white font-bold lg:leading-[60px] sm:leading-[40px] leading-[25px] mt-[16px]"
           >
             Global Payments Switch
           </div>
