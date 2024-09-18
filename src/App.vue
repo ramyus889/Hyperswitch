@@ -1,10 +1,5 @@
-<script setup>
-import UseHeader from './components/UseHeader.vue';
-</script>
+<script setup></script>
 
 <template>
-  <div class="">
-    <UseHeader />
-    <RouterView />
-  </div>
+  <div class="">assd</div>
 </template>
