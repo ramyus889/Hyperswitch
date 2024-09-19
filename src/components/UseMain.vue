@@ -1,21 +1,21 @@
 <script setup></script>
 <template>
-  <div class="bg-[#283652] w-full pb-1 flex place-content-center">
-    <div class="mt-[176px] max-w-[1440px]">
+  <div class="mt-[176px]">
+    <div class="pb-1 flex place-content-center">
       <div class="">
         <div class="text-center px-5">
           <div class="flex place-content-center">
             <img src="/UseBadge.svg" alt="" />
           </div>
           <div
-            class="lg:text-[60px] sm:text-[40px] text-[25px] text-white font-bold lg:leading-[60px] sm:leading-[40px] leading-[25px] mt-[16px]"
+            class="lg:text-[60px] sm:text-[40px] text-[25px] font-bold lg:leading-[60px] sm:leading-[40px] leading-[25px] mt-[16px]"
           >
             Global Payments Switch
           </div>
           <div class="lg:text-[60px] sm:text-[40px] text-[25px] text-[#338cff] font-bold">
             Fast.Reliable.Affordable.
           </div>
-          <div class="text-[20px] text-white">
+          <div class="text-[20px]">
             Full stack payment infrastructure solution to embrace diversity, reduce payment friction
             and manage compliance
           </div>

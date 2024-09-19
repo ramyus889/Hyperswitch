@@ -51,7 +51,7 @@ const items = [
 ];
 </script>
 <template>
-  <div class="flex place-content-center max-w-[1440px] mt-[100px]">
+  <div class="flex place-content-center mt-[100px]">
     <div class="text-center">
       <div class="text-[#929fbe] text-[25px] font-semibold">GLOBAL BRANDS TRUST US</div>
       <marquee behavior="scroll" direction="">

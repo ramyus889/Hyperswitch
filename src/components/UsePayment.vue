@@ -1,10 +1,10 @@
 <script setup></script>
 <template>
   <div class="">
-    <div class="flex place-content-start">
-      <div class="max-w-[1440px] pt-[90px] px-5">
+    <div class="flex xl:place-content-start place-content-center">
+      <div class="pt-[90px] px-5">
         <div
-          class="sm:text-[48px] text-[30px] sm:text-start text-center text-white font-semibold sm:leading-[66px] leading-[40px]"
+          class="sm:text-[48px] text-[30px] sm:text-start text-center font-semibold sm:leading-[66px] leading-[40px]"
         >
           We are your Trusted <br />
           Payment Solutions Partner

@@ -1,21 +1,23 @@
 <script setup></script>
 <template>
   <div class="">
-    <div class="flex place-content-center mt-[125px] pt-[125px] pb-[180px] px-5 text-white">
+    <div class="flex xl:place-content-start place-content-center items-center my-[225px] px-5">
       <div class="max-w-[1440px]">
-        <div class="inline-flex flex-col gap-[16px]">
-          <div
-            class="tracking-[8px] bg-[#006df9] text-[15px] text-center font-semibold text-white px-[8px] py-[4px] rounded-full"
-          >
-            PAYMENT OPS
-          </div>
-          <div class="text-[48px] leading-[48px] font-bold">
-            Reduce Payment <br />
-            Operations
-          </div>
-          <div class="text-[20px]">
-            Focus on you core business, while we manage your <br />
-            payment operations
+        <div class="flex xl:place-content-start place-content-center">
+          <div class="inline-flex flex-col gap-[16px] xl:text-start text-center">
+            <div
+              class="tracking-[8px] bg-[#006df9] text-[15px] text-center text-white font-semibold px-[8px] py-[4px] rounded-full"
+            >
+              PAYMENT OPS
+            </div>
+            <div class="text-[48px] leading-[48px] font-bold">
+              Reduce Payment <br />
+              Operationsff
+            </div>
+            <div class="text-[20px]">
+              Focus on you core business, while we manage your <br />
+              payment operations
+            </div>
           </div>
         </div>
         <div
