@@ -1,7 +1,9 @@
 <script setup>
 import UseDeliver from './components/UseDeliver.vue';
 import UseFlexLogo from './components/UseFlexLogo.vue';
+import UseFooter from './components/UseFooter.vue';
 import UseHeader from './components/UseHeader.vue';
+import UseHyper from './components/UseHyper.vue';
 import UseImprove from './components/UseImprove.vue';
 import UseMain from './components/UseMain.vue';
 import UsePayment from './components/UsePayment.vue';
@@ -14,7 +16,7 @@ import UseSystem from './components/UseSystem.vue';
 <template>
   <div class="">
     <UseHeader />
-    <div class="mb-20 flex place-content-center">
+    <div class="flex place-content-center">
       <div class="max-w-[1440px]">
         <UseMain />
         <UseFlexLogo />
@@ -25,7 +27,11 @@ import UseSystem from './components/UseSystem.vue';
         <UseSeamless />
         <UseProductSuite />
         <UseDeliver />
+        <UseHyper />
       </div>
+    </div>
+    <div class="">
+      <UseFooter />
     </div>
   </div>
 </template>
