@@ -3,11 +3,17 @@
   <div class="flex place-content-center mt-[140px] px-5">
     <div class="">
       <div class="flex xl:flex-row flex-col gap-10 items-center justify-between">
-        <div class="text-[56px] font-[700] max-w-[400px] xl:text-start text-center leading-[56px]">
+        <div
+          data-aos="fade-up"
+          data-aos-delay="100"
+          class="text-[56px] font-[700] max-w-[400px] xl:text-start text-center leading-[56px]"
+        >
           All-in-one Payments Product Suite
         </div>
         <div class="grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-[48px]">
           <div
+            data-aos="fade-up"
+            data-aos-delay="100"
             class="md:max-w-[320px] w-full px-[32px] py-[32px] flex flex-col gap-3 bg-[#DDEDDE] rounded-[24px]"
           >
             <div class="text-[20px] font-bold">Global Payments</div>
@@ -17,6 +23,8 @@
             <div class=""><img src="/Group17.svg" alt="" /></div>
           </div>
           <div
+            data-aos="fade-up"
+            data-aos-delay="300"
             class="md:max-w-[320px] w-full px-[32px] py-[32px] flex flex-col gap-3 bg-[#DDEDDE] rounded-[24px]"
           >
             <div class="text-[20px] font-bold">Unified and Native Checkout</div>
@@ -24,6 +32,8 @@
             <div class=""><img src="/Group18.svg" alt="" /></div>
           </div>
           <div
+            data-aos="fade-up"
+            data-aos-delay="500"
             class="md:max-w-[320px] w-full px-[32px] py-[32px] flex flex-col gap-3 bg-[#DDEDDE] rounded-[24px]"
           >
             <div class="text-[20px] font-bold">Control Center</div>
@@ -33,6 +43,8 @@
           </div>
 
           <div
+            data-aos="fade-up"
+            data-aos-delay="700"
             class="md:max-w-[320px] w-full px-[32px] py-[32px] flex flex-col bg-[#DDEDDE] rounded-[24px]"
           >
             <div class=""><img src="/Group19.svg" alt="" /></div>
@@ -42,6 +54,8 @@
             </div>
           </div>
           <div
+            data-aos="fade-up"
+            data-aos-delay="900"
             class="md:max-w-[320px] w-full px-[32px] py-[32px] flex flex-col gap-3 bg-[#DDEDDE] rounded-[24px]"
           >
             <div class="text-[20px] font-bold">Payouts</div>
@@ -49,6 +63,8 @@
             <div class=""><img src="/Group20.svg" alt="" /></div>
           </div>
           <div
+            data-aos="fade-up"
+            data-aos-delay="1100"
             class="md:max-w-[320px] w-full px-[32px] py-[32px] flex flex-col gap-3 bg-[#DDEDDE] rounded-[24px]"
           >
             <div class="text-[20px] font-bold">Compliance-in-a-box</div>

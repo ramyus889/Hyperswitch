@@ -53,7 +53,9 @@ const items = [
 <template>
   <div class="flex place-content-center mt-[100px]">
     <div class="text-center">
-      <div class="text-[#929fbe] text-[25px] font-semibold">GLOBAL BRANDS TRUST US</div>
+      <div data-aos="fade-up" data-aos-delay="100" class="text-[#929fbe] text-[25px] font-semibold">
+        GLOBAL BRANDS TRUST US
+      </div>
       <marquee behavior="scroll" direction="">
         <div class="flex sm:gap-[64px] gap-[32px] mt-[64px] mb-[124px]">
           <div v-for="item in items" :key="item.id" class="">
